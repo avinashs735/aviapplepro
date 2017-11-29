@@ -1,0 +1,3 @@
+<properties fromTemplate="false">
+	<group name="atlas" type="Sgi::Graphics::Atlas" />
+</properties>
